@@ -3,5 +3,9 @@
 
 ![RabbitMQ](https://img.shields.io/badge/REQUESTS-orange?style=for-the-badge&logo=rabbitmq&logoColor=white) ![JWT](https://img.shields.io/badge/JSON-blue?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/DATETIME-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-Установка
-`$ pip install git+https://github.com/Fsoky/DonationAlertsAPI`
+- Установка с GitHub *(требуется [git](https://git-scm.com/downloads))*
+```
+$ git clone https://github.com/const0main/UsernameMarketplace
+$ cd UsernameMarketplace
+$ python setup.py install
+```

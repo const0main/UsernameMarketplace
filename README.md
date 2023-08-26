@@ -10,3 +10,5 @@ $ cd username-marketplace
 $ start setup.bat
 ```
 - При установки не на testnet версию оплаты вы должны везде поменять url на такие `https://pay.crypt.bot/...`
+
+![image](https://github.com/reyzovw/username-marketplace/assets/120815160/f6ee35a0-4eb6-49d6-b41f-f98eda643b16)

@@ -5,8 +5,8 @@
 
 - Установка с GitHub *(требуется [git](https://git-scm.com/downloads))*
 ```
-$ git clone https://github.com/const0main/UsernameMarketplace
-$ cd UsernameMarketplace
+$ git clone https://github.com/const0main/username-marketplace
+$ cd username-marketplace
 $ start setup.bat
 ```
 - При установки не на testnet версию оплаты вы должны везде поменять url на такие `https://pay.crypt.bot/...`

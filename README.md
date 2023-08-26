@@ -7,5 +7,5 @@
 ```
 $ git clone https://github.com/const0main/UsernameMarketplace
 $ cd UsernameMarketplace
-$ python setup.py install
+$ start setup.bat
 ```

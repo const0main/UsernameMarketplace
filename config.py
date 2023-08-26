@@ -1,3 +1,3 @@
-TOKEN = "6139678759:AAEYT0yl2dMpz8ccE5EBDvgarVWjxPGvQSU"
-Crypto_API = ""
-Crypto_API_TESTNET = "8239:AAERQHbGkqCEe62zMI1zBqZNNE4Asj2ecjC"
+TOKEN = "YOUR BOT TOKEN"
+Crypto_API = "YOUR https://t.me/CryptoBot APP TOKEN"
+Crypto_API_TESTNET = "YOUR https://t.me/CryptoTestnetBot APP TOKEN"

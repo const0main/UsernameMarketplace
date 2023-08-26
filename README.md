@@ -9,3 +9,4 @@ $ git clone https://github.com/const0main/UsernameMarketplace
 $ cd UsernameMarketplace
 $ start setup.bat
 ```
+- При установки не на testnet версию оплаты вы должны везде поменять url на такие `https://pay.crypt.bot/...`
